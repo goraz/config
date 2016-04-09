@@ -2,7 +2,7 @@
 
 
 [![Build Status](https://travis-ci.org/goraz/config.svg)](https://travis-ci.org/goraz/config)
-[![Coverage Status](https://coveralls.io/repos/goraz/config/badge.svg&service=github)](https://coveralls.io/github/goraz/config)
+[![Coverage Status](https://coveralls.io/repos/github/goraz/config/badge.svg?branch=master)](https://coveralls.io/github/goraz/config?branch=master)
 [![GoDoc](https://godoc.org/github.com/goraz/config?status.svg)](https://godoc.org/github.com/goraz/config)
 
 --
